@@ -1,0 +1,10 @@
+LOG: chave verificada a
+LOG: raiz: a
+LOG: filho 1: 0
+LOG: filho 2: 0
+LOG: filho 3: 0
+LOG: filho 4: 0
+LOG: numero de chaves: 3
+LOG: verifica folha: 1
+LOG: verifica pai: 1
+
