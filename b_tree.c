@@ -34,7 +34,7 @@ short search(char key, FILE *f){
 }
 
 Node* remover(char key, FILE *f){
-
+return key;
 }
 /*
 
