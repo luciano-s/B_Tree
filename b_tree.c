@@ -1,5 +1,5 @@
 #include "b_tree.h"
-
+#incldude <stdio.h>
 short search(char key, FILE *f){
 	Node no;
 	FILE *log;
